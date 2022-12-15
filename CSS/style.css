@@ -1,5 +1,5 @@
 body {background-color: #F29881;}
-.header {background-color: #17706E; height: 100vh; align-self: center;background-repeat: no-repeat; background-size: cover; background-attachment: fixed; align-items: center;justify-content: center;}
+.header {background-color: #17706E; height: 100px;}
 
 #whoweare, #volunteer, #whatsnext, #donate { display:inline;font-family: Secular One ; color: white; font-size: 24px; position: relative; padding-bottom:  20px;padding:  20px;}
 

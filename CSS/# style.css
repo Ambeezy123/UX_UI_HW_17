@@ -1,15 +1,23 @@
 body {background-color: #F29881;}
 .header {background-color: #17706E; display: block; height: 272px;}
 
+#whoweare, #volunteer, #whatsnext, #donate { display:inline;font-family: Secular One ; color: white; font-size: 36px; position: relative; padding-bottom:  20px;padding:  20px;}
+
+.icons { position: absolute; top: 50px; right: 50px;}
+
 .heroImage { display: flex; flex-direction: column;}
 
 .missionStatement {padding: 20px; font-family: Secular One; color:#17706E; font-size: 40px; float:right;}
 
 .paragraphOne {font-size: 24px; float: right;}
 
-.Rectangle90 {float:center; position:absolute; z-index: 2;margin-left: 30%;}
+.Rectangle90 {display:inline; float:center; position:relative; z-index: 2;margin-left: 30%;}
 
 .container {height: 446px; width: 650px; background-color:white; padding: 20px; border-radius: 30px;  margin-top: 40px; float:right; display: inline; margin: right 20%; position:absolute; z-index:-1;}
 
+.whyvolunteer {padding: 20px; font-family: Secular One; color:#17706E; font-size: 40px; float:right;}
+.paragraphTwo {font-size: 24px; float: right;}
+
+.container2 {height: 446px; width: 650px; background-color:white; padding: 20px; border-radius: 30px;  margin-top: 40px; float:right; display: inline; margin: right 20%; position:absolute; z-index:-1;}
 
 .Rectangle92 

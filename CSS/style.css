@@ -1,11 +1,11 @@
 body {background-color: #F29881;}
-.header {background-color: #17706E; height:272px; width:  100%;}
+.header {background-color: #17706E; width:1920; margin: 0%;}
 
 #whoweare, #volunteer, #whatsnext, #donate { display:inline;font-family: Secular One ; color: white; font-size: 24px; position: relative; padding-bottom:  20px;padding:  20px;}
 
 .icons { position: absolute; top: 50px; right: 50px;}
 
-.heroImage { display: flex; flex-direction: column; width: 100%;}
+.heroImage { display: flex; flex-direction: column; width: 1920px;}
 
 .missionStatement {padding: 20px; font-family: Secular One; color:#17706E; font-size: 40px; float:right;}
 

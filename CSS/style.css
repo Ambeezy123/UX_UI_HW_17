@@ -22,38 +22,48 @@ width: 100%; height: 500px;}
        width:100%;
        margin: bottom 15px;}
 
-.spacer{ height: 8vh;}
+.row {position:relative;
+      top: 500px; left: 83px;}
 
-.Rectangle90 {position: left; display: inline;}
+#image1 {width: 613px;
+     height: 561px;
+z-index: 2;
+position: absolute;}
 
 
-.missionStatement {padding: 20px; 
+.missionStatement { 
     font-family: Secular One; color:#17706E;
-     font-size: 40px;
-      display: inline-block; position: relative; margin-top: 25%;}
+     font-size: 36px;
+ position: absolute;
+ right: 40px;
+height: 400px; width: 450px;}
 
-.paragraphOne {font-size: 24px;
-     float: right;}
-     
-.container {height: 446px; width: 650px;
+.container {
      background-color:white;
       padding: 20px; border-radius: 30px;
-        margin-top: 40px; float:right;
-         display: inline-block;
-          margin: right; 20%; position:absolute; z-index:-1;}
+        left: 83px; z-index:1; top: 35px;
+     display: inline-block;
+position: absolute;
+height: 446px; width: 1017px;}
           
+.row2 {position:relative; top: 1100px; left: 83px;}
 
-.whyvolunteer {padding: 20px; font-family: Secular One; 
-     color:#17706E; font-size: 40px; float:right;}
+.whyvolunteer {font-family: Secular One; color:#17706E;
+     font-size: 36px;
+ position: absolute;
+ left: 40px;
+height: 400px; width: 450px;}
 
-.paragraphTwo {font-size: 24px; float: right;}
 
-.container2 {height: 446px; width: 650px; 
-     background-color:white; padding: 20px;
-      border-radius: 30px;  margin-top: 40px; 
-      float:right; display: inline-block; 
-      margin: right 20%; 
-      position:absolute;
-       z-index:-1; right: 90px;}
+.container2 {background-color:white;
+     padding: 20px; border-radius: 30px;
+       left: 83px; z-index:1; top: 35px;
+    display: inline-block;
+position: absolute;
+height: 446px; width: 1017px;}
 
-.Rectangle92  {position: relative;}
+#image2 {width: 613px;
+     height: 561px;
+z-index: 2;
+position: absolute;
+left: 567px}

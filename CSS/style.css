@@ -79,15 +79,15 @@ position: absolute;
 height: 446px; width: 1017px;}
 
 
-.buttons {border-radius: 15px;
-right: 250px;
-position: absolute; font-size: 72px;}
+.buttons  button {border-radius: 15px;
+position: relative; font-size: 24px;
+background-color:#17706E; color: white; font-family: Secular One; right: -60px;}
 
 .whydonate {font-family: Secular One; color:#17706E;
      font-size: 36px;
  position: absolute;
 right: 40px;
-height: 100px; width: 450px}
+height: 100px; width: 450px;}
 
 #image3 {width: 613px;
      height: 561px;

@@ -51,14 +51,14 @@ height: 446px; width: 1017px;}
 .whyvolunteer {font-family: Secular One; color:#17706E;
      font-size: 36px;
  position: absolute;
- left: 40px;
+ left: 83px;
 height: 400px; width: 450px;}
 
 
 .container2 {background-color:white;
      padding: 20px; border-radius: 30px;
-       left: 83px; z-index:1; top: 35px;
-    display: inline-block;
+      z-index:1; top: 35px;
+    display: block;
 position: absolute;
 height: 446px; width: 1017px;}
 
@@ -67,3 +67,29 @@ height: 446px; width: 1017px;}
 z-index: 2;
 position: absolute;
 left: 567px}
+
+.row3 {position: relative; top: 1700px; left: 83px;}
+
+.container3 {
+     background-color:white;
+      padding: 20px; border-radius: 30px;
+        left: 83px; z-index:1; top: 35px;
+     display:block;
+position: absolute;
+height: 446px; width: 1017px;}
+
+
+.buttons {border-radius: 15px;
+right: 250px;
+position: absolute; font-size: 72px;}
+
+.whydonate {font-family: Secular One; color:#17706E;
+     font-size: 36px;
+ position: absolute;
+right: 40px;
+height: 100px; width: 450px}
+
+#image3 {width: 613px;
+     height: 561px;
+z-index: 2;
+position: absolute;}
